@@ -1,1 +1,1 @@
-# TesttToStoryGenerator
+# ImageToStoryGenerator
